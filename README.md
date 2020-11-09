@@ -33,3 +33,15 @@ Even though we use a linear equation to solve a classification problem , the val
 
 The optimization criterion in logistic regression is called maximum likelihood. Instead of minimizing the average loss, like in linear regression, we now maximize the likelihood of the training data according to our model.
 
+## Q What is a decision tree  ? 
+
+A decision tree is an acyclic graph. An alrogithm used to train for classification problem ? 
+
+## What is model and training. 
+
+The process of building a model is called training. A model is a statistical ,....
+
+## what is parametric vs non-parametric learning algorithms ? 
+
+## why  linear regression has a closed form solution ? , What exactly does it mean ? 
+
