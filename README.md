@@ -43,5 +43,15 @@ The process of building a model is called training. A model is a statistical ,..
 
 ## What is parametric vs non-parametric learning algorithms ? 
 
+Parametric learning algorithm assumes a strong relationship between the inputs and the target. Thus if the relationship between is non-linear then assuming linear relationship will predict high bias. Linear regression is a parametric learning algorithm but KNN is a non-parametric algorithm and it don't assume this strong assumption.
+
 ## Why  linear regression has a closed form solution ? , What exactly does it mean ? 
+
+## What is a classification problem ?
+
+At times the prediction is not a quantity but a quality, for example given income and credit card stategment of montly , can we predict if the user is a defaulter ? This is a categorical problem, thus represents a class of the user Defaulter or non-defaulter. This kind of problems are called classification problems. 
+
+## Why can't we use linear regression for classification problems ? 
+
+Linear regression can be ok for classification with binary response. But when we have multiclass classcification problem it fails. 
 
